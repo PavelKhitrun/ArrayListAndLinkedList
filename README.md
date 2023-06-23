@@ -1,1 +1,1 @@
-# ArrayListAndLinkedList
+Коллекции: ArrayList и LinkedList
